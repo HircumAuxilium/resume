@@ -17,8 +17,10 @@ h6 {
 a {
   text-decoration: none;
   color: #ffffff; /* white text color */
+  border-bottom: 1px solid #007bff; /* underline effect */
 }
 
 a:hover {
   color: #aaaaaa; /* lighter gray text color on hover */
+  border-bottom-color: #0056b3; /* darker gray border color on hover */
 }
